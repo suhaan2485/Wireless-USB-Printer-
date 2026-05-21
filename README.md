@@ -34,8 +34,11 @@ This project uses a Raspberry Pi Zero 2 W as a light wireless print server runni
 The Canon MF3010 can now print wirelessly from devices connected to the same Wi-Fi network and supports AirPrint™ compatible printing !!
 
 ## Photos
+<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/f9461b53-019b-4964-ade6-f8ef848eda8c" />
+(i will upload more imgs when the project starts!)
 
 
 ## AI Usage Disclosure
 
-AI tools including ChatGPT were used for learning Linux commands, Raspberry Pi setup guidance, and understanding CUPS installation during development. All testing, hardware setup, configuration, and project implementation were done manually.
+AI tools including ChatGPT will be used for learning Linux commands, Raspberry Pi setup guidance, and understanding CUPS installation during development. (I have done this before so im good but just for last resort or error handling)
+All testing, hardware setup, configuration, and project implementation will be done manually.
