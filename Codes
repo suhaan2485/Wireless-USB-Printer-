@@ -1,0 +1,37 @@
+### 1. Update Raspberry Pi
+
+sudo apt update
+sudo apt upgrade -y
+
+### 2. Install CUPS
+
+sudo apt install cups -y
+
+### 3. Add Printer Permissions
+
+sudo usermod -aG lpadmin pi
+
+### 4. Enable and Start CUPS
+
+sudo systemctl enable cups
+sudo systemctl start cups
+
+### 5. Allow Network Printer Sharing
+
+sudo cupsctl --remote-any
+sudo cupsctl --share-printers
+sudo cupsctl --remote-admin
+
+### 6. Edit CUPS Configuration
+
+sudo nano /etc/cups/cupsd.conf
+
+### 7. Restart CUPS
+
+sudo systemctl restart cups
+
+### 8. Open CUPS Web Interface
+
+http://<raspberry-pi-ip>:631
+
+
