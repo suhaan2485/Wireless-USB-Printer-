@@ -55,22 +55,15 @@ sidenote - the codes needed r there in the "Codes" file
 
 ## Photos:
 
-1. Curcuit Sketch Diagram:
+(1) Curcuit Sketch Diagram:
 <img width="1620" height="971" alt="image" src="https://github.com/user-attachments/assets/5b808880-5a51-46ee-b38d-fac2bba75085" />
 
-
-2. Components:
-
-
+(2) Components:
 (i) Anytone AT-779UV Radio Transceiver:
 <img width="475" height="376" alt="image" src="https://github.com/user-attachments/assets/ea15b240-91dc-4c4e-b611-d2df5edb0d91" />
 
-
-
 (ii) AUKENIEN Mosfet Transistor Kit:
 <img width="417" height="489" alt="image" src="https://github.com/user-attachments/assets/87fb5629-b80b-4cba-b60b-803bae219f7e" />
-
-
 
 (iii) Raspberry Pi Pico:
 <img width="462" height="461" alt="image" src="https://github.com/user-attachments/assets/dfa3772b-020f-480f-be0b-73d2040559d2" />
